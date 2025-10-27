@@ -1,2 +1,2 @@
-# CBC---Students-Grading-System
+# CBC-Students-Grading-System
 A simple CBC Student Grading System written in C
